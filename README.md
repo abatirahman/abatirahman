@@ -1,5 +1,7 @@
 ## Hello World, i'm abatirahman 👋
 
+![header-github](img/github-header-banner.png)
+
 <!--
 **abatirahman/abatirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning laravel
-![wait](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3hkbHJleTE1aHFuZGVuaTZlYzJxZWV3c3JlNDZ4NzNoZzZ3dTZ2NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/QhjR3MG9ZFfjB6BtIZ/giphy.gif)
+
+
+##### Learning
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+##### Connect with me
+
+![instagram.com/abatirahman](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+##### My Github Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=abatirahman&theme=tokyonight" alt="GitHub Streak" />
+</p>
