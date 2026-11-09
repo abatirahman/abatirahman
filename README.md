@@ -1,6 +1,6 @@
-## Hello World, i'm abatirahman 👋
-
 ![header-github](img/github-header-banner.png)
+
+### Hello World, i'm abatirahman 👋 an active student with a passion for the world of technology.
 
 <!--
 **abatirahman/abatirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
