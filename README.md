@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, i'm abatirahman 👋
 
 <!--
 **abatirahman/abatirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning laravel
+![wait](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3hkbHJleTE1aHFuZGVuaTZlYzJxZWV3c3JlNDZ4NzNoZzZ3dTZ2NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/QhjR3MG9ZFfjB6BtIZ/giphy.gif)
