@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![instagram.com/abatirahman](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abatirahman)
 
 
 ##### My Github Stats
